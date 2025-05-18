@@ -1,0 +1,8 @@
++----+----------------------+-------------------------+
+| ID | Name                 | Email                   |
++----+----------------------+-------------------------+
+| 1  | rhythm               | rhythm@gmail.com        |
+| 2  | kashvi               | kashvi@gmail.com        |
+| 3  | pratishtha           | pratishtha@gmail.com    |
+| 4  | shubhank             | s@gmail.com             |
++----+----------------------+-------------------------+
